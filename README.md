@@ -18,6 +18,12 @@
 ![](https://img.shields.io/github/downloads/RaidcoreGG/GW2-LFG-Releases/total?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
 
 # GW2-LFG
+
+## Installation
+Install it ingame through the Raidcore [Nexus](https://github.com/RaidcoreGG/Nexus) Addon Library.
+Alternatively you can install it manually from here, but it requires Nexus to work.
+
+## Usage
 You can access the LFG via the assigned input bind or through the quick access menu.
 
 <img width="317" height="81" alt="{DAB9D1E0-CA57-477C-8954-FED5B2CFE1BE}" src="https://github.com/user-attachments/assets/ca50c363-8098-4f24-9f4f-7227a4bdc9de" />
@@ -28,4 +34,4 @@ Immediate access to quickplay (raids & fractals) or their respective LFGs, rathe
 <img width="1920" height="1080" alt="{AB5783B9-A5DA-4366-89E3-65B5560DCC2B}" src="https://github.com/user-attachments/assets/e40317af-5d3c-4080-945a-e92190c1099e" />
 
 ## Phase 2 and beyond:
-More features are planned, but this is it for now. Join the raidcore [discord server](https://discord.gg/raidcore) for help and information.
+More features are planned, but this is it for now. Join the Raidcore [discord server](https://discord.gg/raidcore) for help and information.
