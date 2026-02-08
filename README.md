@@ -14,9 +14,8 @@
 
 ---
 
-![](https://img.shields.io/github/license/TyrianDeveloperCollective/GW2-DamageMeter?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
-![](https://img.shields.io/github/v/release/TyrianDeveloperCollective/GW2-DamageMeter?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
-![](https://img.shields.io/github/downloads/TyrianDeveloperCollective/GW2-DamageMeter/total?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
+![](https://img.shields.io/github/v/release/RaidcoreGG/GW2-LFG-Releases?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
+![](https://img.shields.io/github/downloads/RaidcoreGG/GW2-LFG-Releases/total?style=for-the-badge&labelColor=%23131519&color=%230F79AA)
 
 # GW2-LFG
 You can access the LFG via the assigned input bind or through the quick access menu.
